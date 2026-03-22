@@ -16,9 +16,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eltorky1987&show_icons=true&theme=github_dark&hide_border=true" />
 </div>
-</div>
 
 [✍️ مدونة محمد تركي](https://mahamed-torky.hashnode.dev/)
+
 
 
 
