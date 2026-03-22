@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mahamed Eltorky (Agina)
+# مرحباً 👋 أنا محمد التركي (أجينا)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eltorky1987&theme=github-dark&area=true" />
