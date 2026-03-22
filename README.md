@@ -13,11 +13,11 @@
 ### ✍️ مدونتي التقنية
 [اقرأ مقالاتي على Hashnode من هنا](https://hashnode.com/@eltorky)
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltorky1987&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eltorky1987&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eltorky1987&theme=github-dark&area=true" />
+  <img src="https://github-readme-stroke-stats.vercel.app/?user=eltorky1987&theme=github_dark" />
 </div>
