@@ -12,10 +12,6 @@
 
 ### ✍️ مدونتي التقنية
 [اقرأ مقالاتي على Hashnode من هنا](https://hashnode.com/@eltorky)
----
-
-### 📊 إحصائيات GitHub الخاصة بي
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltorky1987&theme=github_dark" />
 </div>
@@ -23,5 +19,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eltorky1987&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eltorky1987&theme=github-dark&area=true" />
 </div>
