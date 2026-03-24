@@ -19,3 +19,12 @@
 
 ---
 © 2026 تم التطوير بواسطة **Agina** بمساعدة **محمد تركي**.
+
+---
+
+### 📊 إحصائيات سـرداب أجيـنا
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eltorky1987&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltorky1987&layout=compact&theme=tokyonight)
+
+---
+© 2026 تم التطوير بواسطة **Agina** بمساعدة **محمد تركي**.
