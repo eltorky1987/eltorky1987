@@ -1,24 +1,21 @@
-# مرحباً 👋 أنا محمد التركي (أجينا)
+# 🛡️ سرداب أجينا | AGina Crypt 🛡️
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eltorky1987&theme=github-dark&area=true" />
-</div>
+> **أداة تشفير وحماية متقدمة بلغة Python، تم تطويرها داخل Termux لتجربة هكر حقيقية.**
 
-<br />
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+### 👨‍💻 المطور (Developer)
+**محمد تركي** - *Software Developer & Program Hacker*
+* 🇪🇬 **الموقع:** الإسكندرية، مصر.
+* 📱 **الجهاز المستخدم:** Realme C67 (Termux Environment).
+* 🛠️ **الخبرات:** Python, Arduino (Smoke Detector), Git, Docker.
 
-<br />
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eltorky1987&show_icons=true&theme=github_dark&hide_border=true" />
-</div>
+### 🚀 أحدث المشاريع
+* 🔐 **AGina Crypt:** أداة تشفير ملونة بنظام حماية.
+* 🔥 **Smoke Detector:** مشروع IoT متكامل (Arduino).
+* 📝 **Learning Roadmap:** توثيق رحلة التعلم البرمجية.
 
-[✍️ مدونة محمد تركي](https://mahamed-torky.hashnode.dev/)
-
-
-
-
+---
+© 2026 تم التطوير بواسطة **Agina** بمساعدة **محمد تركي**.
