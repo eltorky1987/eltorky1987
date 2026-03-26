@@ -20,3 +20,4 @@ The rose you see isn't a gift; it's a Watermark.
 
 ### 📊 System Statistics:
 ![Stats](https://github-readme-stats.vercel.app/api?username=eltorky1987&show_icons=true&theme=dark)
+[Featured Tool: Check out 'The-Garden' for Active Encryption Scripts] 🌹
