@@ -7,10 +7,11 @@
   <a href="https://github.com/eltorky1987?tab=repositories">
     <img src="https://img.shields.io/badge/Top_Langs-Skills-orange?style=for-the-badge&logo=python" />
   </a>
-</p>
-<p align="center">
+</p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=eltorky1987&label=Profile%20Views&color=0077b5&style=flat-square" alt="Views" />
 </p>
+
+
 
 ---
 
