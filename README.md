@@ -1,11 +1,11 @@
 # ⚡ Mahamed Eltorky | Developer & Security Enthusiast
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eltorky1987&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eltorky1987&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltorky1987&layout=compact&theme=dark&hide_border=true" width="350" />
+  <img src="https://github-readme-stats-two-no-border.vercel.app/api/top-langs/?username=eltorky1987&layout=compact&theme=radical" width="350" />
 </p>
 
 
