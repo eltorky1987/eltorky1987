@@ -1,12 +1,16 @@
 # ⚡ Mahamed Eltorky | Developer & Security Enthusiast
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eltorky1987&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400" />
+  <a href="https://github.com/eltorky1987">
+    <img src="https://img.shields.io/badge/GitHub_Stats-Profile-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/eltorky1987?tab=repositories">
+    <img src="https://img.shields.io/badge/Top_Langs-Skills-orange?style=for-the-badge&logo=python" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-two-no-border.vercel.app/api/top-langs/?username=eltorky1987&layout=compact&theme=radical" width="350" />
-</p>
+---
+
 
 
 
