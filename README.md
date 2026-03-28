@@ -1,4 +1,46 @@
-# ⚡ Mahamed Eltorky | Developer & Security Enthusiast
+# ⚡ Mahamed Eltorky | مطور برامج ومهتم بأمن المعلومات  
+
+## 🚀 المشاريع المميزة  
+- [SmokeDetector](https://github.com/eltorky1987/SmokeDetector) – مشروع ذكي للكشف عن الدخان باستخدام Arduino وMQ-2.  
+- [Agina-Project](https://github.com/eltorky1987/Agina-Project) – منصة متعددة الوظائف للتجارب البرمجية.  
+- [PIC-Microcontroller-Projects](https://github.com/eltorky1987/PIC-Microcontroller-Projects) – مشاريع تعليمية على متحكمات PIC.  
+- [learning-notes](https://github.com/eltorky1987/learning-notes) – مذكرات تعليمية وتجارب برمجية.  
+
+---
+
+## 🛠️ المهارات التقنية  
+- لغات: C, Python, Java  
+- أدوات: Arduino IDE, MPLAB, Git  
+- تخصص: الأمن السيبراني، التشفير، أنظمة التحكم الذكية  
+
+---
+
+## 📝 آخر التحديثات  
+- 2026-03-28: إضافة README وCHANGELOG لمشروع SmokeDetector.  
+- 2026-03-29: معايرة مستشعر MQ-2 وتسجيل النتائج في notes.md.  
+- 2026-03-30: توصيل شاشة LCD وعرض التنبيهات.  
+- 2026-03-31: تجهيز docs/ بمخطط التوصيلات.  
+
+---
+
+## 📍 الموقع  
+الإسكندرية، مصر  
+📱 الجهاز: Realme C67 (تطوير واختبار Android)  
+
+---
+
+## 🔐 الاهتمامات  
+- الأمن السيبراني  
+- PGP والتشفير  
+- مراقبة الشبكات  
+- تطوير أدوات على Arduino وPython  
+- أنظمة AOSP  
+
+---
+
+## 📊 إحصائيات GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eltorky1987&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltorky1987&layout=compact&theme=radical)
 
 <p align="center">
   <a href="https://github.com/eltorky1987">
