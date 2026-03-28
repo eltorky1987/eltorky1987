@@ -107,3 +107,4 @@
   <i>
 Add docs folder with wiring diagram
 Add HTTP alert functionality for smoke detection
+Add WiFi connectivity using ESP8266
