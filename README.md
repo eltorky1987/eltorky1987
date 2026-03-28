@@ -106,3 +106,4 @@
 <div align="right">
   <i>
 Add docs folder with wiring diagram
+Add HTTP alert functionality for smoke detection
