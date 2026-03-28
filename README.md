@@ -53,6 +53,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_X_USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eltorky1987)
-
+## 🚀 أهم المشاريع
+- [SmokeDetector](https://github.com/eltorky1987/SmokeDetector) – مشروع ذكي للكشف عن الدخان.
+- [Agina-Project](https://github.com/eltorky1987/Agina-Project) – منصة متعددة الوظائف للتجارب البرمجية.
+- [PIC-Microcontroller-Projects](https://github.com/eltorky1987/PIC-Microcontroller-Projects) – مشاريع تعليمية على متحكمات PIC.
+## 🛠️ المهارات التقنية
+- لغات: C, Python, Java  
+- أدوات: Arduino IDE, MPLAB, Git  
+- تخصص: الأمن السيبراني، التشفير، أنظمة التحكم الذكية
 <div align="right">
   <i>
