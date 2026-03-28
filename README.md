@@ -105,3 +105,4 @@
 - تخصص: الأمن السيبراني، التشفير، أنظمة التحكم الذكية
 <div align="right">
   <i>
+Add docs folder with wiring diagram
